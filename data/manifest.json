@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 1,
+  "main": "data/main.json",
+  "monthIndex": "data/month/index.json"
+}
