@@ -1,0 +1,11 @@
+{
+  "type": "month-index",
+  "months": [
+    {
+      "id": "2026-01",
+      "title": "January 2026",
+      "cover": "images/day/2026/01/01.jpg",
+      "file": "data/month/2026-01.json"
+    }
+  ]
+}
